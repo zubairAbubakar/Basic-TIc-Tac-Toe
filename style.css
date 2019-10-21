@@ -1,0 +1,19 @@
+.bottomBorder {
+    border-bottom: 1px #cccccc solid;
+    }
+    
+.bottomLeftBorder { 
+border-bottom: 1px #cccccc solid;
+border-left: 1px #cccccc solid; }
+
+.bottomRightBorder {
+border-bottom: 1px #cccccc solid;
+border-right: 1px #cccccc solid; }
+
+.leftborder {
+border-left: 1px #cccccc solid; }
+
+.rightborder {
+border-right: 1px #cccccc solid;
+    }
+    
